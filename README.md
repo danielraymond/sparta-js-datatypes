@@ -1,3 +1,3 @@
-### A Lesson on Javascript data types
+### Javascript data types practice
 
-This is a lesson on the different datatypes in javascript and how they can be manipulated.
+This is a program to practice using different javascript datatypes and how they can be manipulated.
